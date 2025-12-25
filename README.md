@@ -34,7 +34,7 @@ We use the **CIFAR-10 Dataset**, a famous collection of 60,000 small images. The
 
 ### 1. Clone the Repo
 ```bash
-git clone [https://github.com/YOUR_USERNAME/CIFAR10-Classifier.git](https://github.com/YOUR_USERNAME/CIFAR10-Classifier.git)
+git clone [https://github.com/SUFIYAN2004/CIFAR10-Classifier]
 cd CIFAR10-Classifier
 ```
 ### 2. Install Dependencies
