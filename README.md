@@ -49,8 +49,3 @@ streamlit run app.py
 The model achieves approximately 71% accuracy. While it is great at distinguishing between distinct shapes like planes and trucks, it sometimes confuses similar shapes (like cats and dogs) due to the low 32x32 resolution.
 ### Happy Learning with <a href="https://www.youtube.com/@suflearning">Suflearning </a>
 ---
-### **Final Pro-Tips for your GitHub:**
-* **The Model File:** Because `.keras` files can be large, just make sure it uploads fully before you close the tab.
-* **The Thumbnail:** If you want to make it look even better, you can add a screenshot of your working Streamlit app to the README later.
-
-**You’re all set for Suflearning! Your viewers are going to love having all the files ready for them. Ready to record the intro now?**
